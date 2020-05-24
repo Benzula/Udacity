@@ -1,6 +1,6 @@
 # Data Science Blog Post - Seattle AirBnB
 
-Project Overview 
+## Project Overview 
 For this project, you will pick a dataset. Inspired by Robert, there are a few public datasets from AirBnB available below, but you may also choose a dataset similar to what was used in the lessons, or an entirely different dataset. Using your dataset, you will choose 3 questions you aspire to answer from the data.
 
 Seattle AirBNB Data
@@ -33,18 +33,34 @@ Create a blog post to share your questions and insights with a non-technical aud
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-## Technical Requirements - Python
-## Table of contents
-## 1. BUSINESS UNDERSTANDING
-#### Pricing Trends
-#### Sentiment Analysis of Reviews
-#### Price Prediction
-## 2. DATA UNDERSTANDING
-#### CALENDAR Data Set
-#### LISTINGS Data Set
-#### REVIEWS Data Set
-## 3. DATA PREPARATION
-## 4. MODELING
-## 5. EVALUATION
-## Summary
-The features that have the most impact on price are a combination of host details and descriptive information about the listing
+## 1. Technical Requirements (Important Python Packages)
+
+  - Collections
+  - Matplotlib
+  - NLTK
+  - NumPy
+  - Pandas
+  - Seaborn
+  - Sklearn
+  
+## 2. Project Motivation
+  -- How does the season affect pricing in Seattle? 
+  
+  -- How does the neighborhood affect the pricing in Seattle? 
+  
+  -- How do the property types within neighbourhoods affect the price? 
+  
+  -- How can we use user reviews to group them together? 
+  
+  -- Can we create a scale of positive and negative reviews based on neighbourhood? 
+  
+  -- Are there specific things we can look at in the negative reviews to see if there business can beneift from changing something? 
+  
+## 3. Files Needed
+  - listings.csv -- Includes listing information details
+  - calendar.csv -- Includes listings price and availabilty
+  - reviews.csv -- Includes user reviews of listings
+## 4. Summary
+Conclusion:
+The highest booking rates would be houses or apartments in the Southeast Magnolia or Portage Bay area during the summer months, so in order to mitigate costs or also prevent everything to be fully booked then it would be wise to book early.
+
