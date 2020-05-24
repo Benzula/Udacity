@@ -30,3 +30,22 @@ Provide a clear connection between your business questions and how the data answ
 
 Create a Github repository to share your code and data wrangling/modeling techniques, with a technical audience in mind
 Create a blog post to share your questions and insights with a non-technical audience
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\//\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+## Technical Requirements - Python
+
+## Table of contents
+## 1. BUSINESS UNDERSTANDING
+#### Pricing Trends
+#### Sentiment Analysis of Reviews
+#### Price Prediction
+## 2. DATA UNDERSTANDING
+#### CALENDAR Data Set
+#### LISTINGS Data Set
+#### REVIEWS Data Set
+## 3. DATA PREPARATION
+## 4. MODELING
+## 5. EVALUATION
+## Summary
+The features that have the most impact on price are a combination of host details and descriptive information about the listing
