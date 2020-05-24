@@ -37,30 +37,24 @@ Create a blog post to share your questions and insights with a non-technical aud
 
   - Collections
   - Matplotlib
-  - NLTK
   - NumPy
   - Pandas
   - Seaborn
-  - Sklearn
   
 ## 2. Project Motivation
-  -- How does the season affect pricing in Seattle? 
-  
-  -- How does the neighborhood affect the pricing in Seattle? 
-  
-  -- How do the property types within neighbourhoods affect the price? 
-  
-  -- How can we use user reviews to group them together? 
-  
-  -- Can we create a scale of positive and negative reviews based on neighbourhood? 
-  
-  -- Are there specific things we can look at in the negative reviews to see if there business can beneift from changing something? 
+  -- What neighbourhoods are the most popular?
+  -- How does the season affect pricing in Seattle?
+  -- How does the neighborhood affect the pricing in Seattle?
+  -- How do the property types within neighbourhoods affect the price?
+  -- How do review ratings affect the price? 
   
 ## 3. Files Needed
   - listings.csv -- Includes listing information details
   - calendar.csv -- Includes listings price and availabilty
   - reviews.csv -- Includes user reviews of listings
+  
 ## 4. Summary
 Conclusion:
-The highest booking rates would be houses or apartments in the Southeast Magnolia or Portage Bay area during the summer months, so in order to mitigate costs or also prevent everything to be fully booked then it would be wise to book early.
+The highest booking rates would be houses or apartments in the Southeast Magnolia or Portage Bay area during the summer months, so in order to mitigate costs or also prevent everything to be fully booked then it would be wise to book early. It seems that the old saying in real estate of "Location, Location, Location" is the most important is confirmed by this analysis. Neighbourhood and property type are by far the strongest indicators here that helps to determine price.
 
+# References - https://medium.com/@sebastiannorena/finding-correlation-between-many-variables-multidimensional-dataset-with-python-5deb3f39ffb3
