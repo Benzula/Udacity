@@ -43,9 +43,13 @@ Create a blog post to share your questions and insights with a non-technical aud
   
 ## 2. Project Motivation
   -- What neighbourhoods are the most popular?
+  
   -- How does the season affect pricing in Seattle?
+  
   -- How does the neighborhood affect the pricing in Seattle?
+  
   -- How do the property types within neighbourhoods affect the price?
+  
   -- How do review ratings affect the price? 
   
 ## 3. Files Needed
