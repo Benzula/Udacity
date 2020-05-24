@@ -44,12 +44,12 @@ Create a blog post to share your questions and insights with a non-technical aud
   - Sklearn
   
 ## 2. Project Motivation
-  -- How does the season affect pricing in Seattle?
-  -- How does the neighborhood affect the pricing in Seattle?
-  -- How do the property types within neighbourhoods affect the price?
-  -- How can we use user reviews to group them together?
-  -- Can we create a scale of positive and negative reviews based on neighbourhood?
-  -- Are there specific things we can look at in the negative reviews to see if there business can beneift from changing something?
+  -- How does the season affect pricing in Seattle? 
+  -- How does the neighborhood affect the pricing in Seattle? 
+  -- How do the property types within neighbourhoods affect the price? 
+  -- How can we use user reviews to group them together? 
+  -- Can we create a scale of positive and negative reviews based on neighbourhood? 
+  -- Are there specific things we can look at in the negative reviews to see if there business can beneift from changing something? 
 ## 3. Files Needed
   - listings.csv -- Includes listing information details
   - calendar.csv -- Includes listings price and availabilty
