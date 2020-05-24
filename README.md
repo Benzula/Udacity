@@ -33,18 +33,26 @@ Create a blog post to share your questions and insights with a non-technical aud
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-## Technical Requirements - Python
-## Table of contents
-## 1. BUSINESS UNDERSTANDING
-#### Pricing Trends
-#### Sentiment Analysis of Reviews
-#### Price Prediction
-## 2. DATA UNDERSTANDING
-#### CALENDAR Data Set
-#### LISTINGS Data Set
-#### REVIEWS Data Set
-## 3. DATA PREPARATION
-## 4. MODELING
-## 5. EVALUATION
-## Summary
-The features that have the most impact on price are a combination of host details and descriptive information about the listing
+## 1. Technical Requirements (Important Python Packages)
+
+  - Collections
+  - Matplotlib
+  - NLTK
+  - NumPy
+  - Pandas
+  - Seaborn
+  - Sklearn
+  
+## 2. Project Motivation
+  - Find Key features of the data set to provide business insights
+  - Predict Pricing for Listings
+  - Can user reviews be an indicator of property pricing?
+  - Which listings are charging the highest price?
+## 3. Files Needed
+  - listings.csv -- Includes listing information details
+  - calendar.csv -- Includes listings price and availabilty
+  - reviews.csv -- Includes user reviews of listings
+## 4. Summary
+Conclusion:
+The highest booking rates would be houses or apartments in the Southeast Magnolia or Portage Bay area during the summer months, so in order to mitigate costs or also prevent everything to be fully booked then it would be wise to book early.
+
